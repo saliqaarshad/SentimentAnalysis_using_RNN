@@ -1,5 +1,5 @@
-tensorflow==2.11.0
-numpy==1.23.5
-streamlit==1.18.1
-pandas==1.5.3
-protobuf>=3.20.0,<4
+tensorflow
+numpy
+streamlit
+pandas
+
